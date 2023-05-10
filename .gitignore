@@ -1,0 +1,16 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+[Oo]bj/
+*/obj/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+
+##
+## Ignore API documentation autogenerater files
+##
+**/DTS.Transmitter.API.xml
+**/DTS.Transmitter.Application.xml
