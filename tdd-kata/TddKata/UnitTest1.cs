@@ -44,6 +44,15 @@ namespace TddKata
             Assert.Throws<CalcException>(() => stringCalc.Add(hugeNumber));
         }
 
+        [Fact]
+        public void Add_ResultOverflow_Exception()
+        {
+            var stringCalc = new Calc();
+            var hugeNumber = $"{int.MaxValue},{int.MaxValue}";
+
+            Assert.Throws<CalcException>(() => stringCalc.Add(hugeNumber));
+        }
+
         [Theory]
         [InlineData("0", 0)]
         [InlineData("5", 5)]
@@ -57,9 +66,9 @@ namespace TddKata
         }
 
         [Theory]
-        [InlineData("0", 0)]
-        [InlineData("5", 5)]
-        [InlineData("15", 15)]
+        [InlineData("0,6", 6)]
+        [InlineData("5,4", 9)]
+        [InlineData("15,-15", 0)]
         public void Add_TwoNumbers_ReturnsSum(string digits, int expected)
         {
             var stringCalc = new Calc();
