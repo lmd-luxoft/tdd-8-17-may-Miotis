@@ -1,0 +1,12 @@
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\bin\Debug\net6.0\TddKataCalc.deps.json
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\bin\Debug\net6.0\TddKataCalc.dll
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\bin\Debug\net6.0\TddKataCalc.pdb
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\TddKataCalc.csproj.AssemblyReference.cache
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\TddKataCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\TddKataCalc.AssemblyInfoInputs.cache
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\TddKataCalc.AssemblyInfo.cs
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\TddKataCalc.csproj.CoreCompileInputs.cache
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\TddKataCalc.dll
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\refint\TddKataCalc.dll
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\TddKataCalc.pdb
+C:\projects\tdd-8-17-may-Miotis\tdd-kata\TddKataCalc\obj\Debug\net6.0\ref\TddKataCalc.dll
