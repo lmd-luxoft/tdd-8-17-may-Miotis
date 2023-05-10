@@ -2,16 +2,6 @@ using TddKataCalc;
 
 namespace TddKata
 {
-    /*
-     * Create a simple String calculator with a method int Add(string numbers)
-     * The method can take 0, 1 or 2 numbers, and will return their sum (for an empty string it will return 0)
-     * for example "" or "1" or "1,2"
-     * Start with the simplest test case of an empty string and move to 1 and 2 numbers
-     * Remember to solve things as simply as possible so that you force yourself
-     * * to write tests you did not think about
-     * Remember to refactor after each passing test
-    */
-
     public class UnitTest1
     {
         [Theory]
@@ -23,7 +13,7 @@ namespace TddKata
             var stringCalc = new Calc();
             var act = stringCalc.Add(emptyEntries);
 
-            Assert.Equal(0,act);
+            Assert.Equal(0, act);
         }
 
         [Fact]
@@ -77,6 +67,4 @@ namespace TddKata
             Assert.Equal(expected, act);
         }
     }
-
-   
 }
